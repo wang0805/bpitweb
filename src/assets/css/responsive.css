@@ -16,7 +16,7 @@
     padding: 10px;
     font-size: 14px;
   }
-  .owl-theme .owl-nav [class*=owl-] {
+  .owl-theme .owl-nav [class*="owl-"] {
     left: 15px;
     top: auto;
     font-size: 15px !important;
@@ -58,11 +58,11 @@
     padding-left: 15px;
   }
   .navbar.navbar-light .navbar-toggler {
-    color: #71c21b;
+    color: #282560;
     outline: 0 !important;
     border-radius: 0;
     padding: 0.25rem 0.55rem;
-    border-color: #71c21b;
+    border-color: #282560;
   }
   .navbar.navbar-light .navbar-toggler .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(113, 194, 27, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
@@ -80,7 +80,7 @@
     color: #000000;
   }
   .navbar.navbar-light .navbar-nav .nav-item .nav-link.active {
-    color: #71c21b;
+    color: #282560;
   }
   .navbar.navbar-light.is-sticky {
     padding: 8px 0;
@@ -226,7 +226,7 @@
   .why-choose-us .col-lg-4 {
     -ms-flex: 0 0 33.333333%;
     -webkit-box-flex: 0;
-            flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
     max-width: 33.333333%;
   }
   .why-choose-us .col-lg-4 .single-choose {
@@ -410,11 +410,11 @@
     padding-left: 15px;
   }
   .navbar.navbar-light .navbar-toggler {
-    color: #71c21b;
+    color: #282560;
     outline: 0 !important;
     border-radius: 0;
     padding: 0.25rem 0.55rem;
-    border-color: #71c21b;
+    border-color: #282560;
   }
   .navbar.navbar-light .navbar-toggler .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(113, 194, 27, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
@@ -430,7 +430,7 @@
     color: #000000;
   }
   .navbar.navbar-light .navbar-nav .nav-item .nav-link.active {
-    color: #71c21b;
+    color: #282560;
   }
   .navbar.navbar-light.is-sticky {
     padding: 8px 0;
